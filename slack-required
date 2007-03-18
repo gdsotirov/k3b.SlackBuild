@@ -1,0 +1,4 @@
+kdelibs >= 3.5
+libmusicbrainz >= 2.1.4
+libdvdread >= 0.9.5
+libsamplerate >= 0.1.2

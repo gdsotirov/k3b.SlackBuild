@@ -1,0 +1,11 @@
+k3b: K3b (The CD/DVD Kreator for Linux - optimized for KDE)
+k3b:
+k3b: K3b is a CD and DVD burning application for Linux systems, optimized
+k3b: for KDE. It provides a comfortable user interface to perform most
+k3b: CD/DVD burning tasks, like creating an Audio CD from a set of audio
+k3b: files, or copying a CD. The actual burning in K3b is done by the
+k3b: command line utilities cdrecord, cdrdao, and growisofs. Now this nice
+k3b: application is declaring stability and enough functionality with this
+k3b: 1.0 release.
+k3b:
+k3b: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>

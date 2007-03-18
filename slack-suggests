@@ -1,0 +1,11 @@
+alsa-lib >= 1.0.11
+arts >= 1.5
+ffmpeg >= 20061215
+flac >= 1.1.2
+lame >= 3.97
+libmad >= 0.15
+libmpcdec >= 1.2.2
+libogg >= 1.1.3
+libsndfile >= 1.0.17
+libvorbis >= 1.1.2
+taglib >= 1.4
