@@ -1,4 +1,11 @@
+cdrtools >= 2.01.01a23
+dbus >= 1.0.2
+dbus-qt >= 0.70
+dvd+rw-tools >= 7.0
+gamin >= 0.1.8
+glibc >= 2.5
+hal >= 0.5.9.1
 kdelibs >= 3.5
 libmusicbrainz >= 2.1.4
-libdvdread >= 0.9.5
 libsamplerate >= 0.1.2
+qt >= 3.3.8
